@@ -31,7 +31,7 @@ query {
     }
     user {
         userName
-    profilePic
+        profilePic
     }
 }
 ```
