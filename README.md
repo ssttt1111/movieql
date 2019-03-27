@@ -8,7 +8,7 @@ Movie API with Graphql
 /users/ GET
 ```
 
-- **Under-fetching:**앱을 처음 시작하려면 아래 세가지를 요청해야 한다. 즉 3가지 요청이 3번 오고가야 앱이 시작된다
+- **Under-fetching:** 앱을 처음 시작하려면 아래 세가지를 요청해야 한다. 즉 3가지 요청이 3번 오고가야 앱이 시작된다
 
 ```sh
 /user/1/ GET
