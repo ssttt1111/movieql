@@ -20,7 +20,7 @@ Movie API with Graphql
 
 Graphql을 사용해 이 문제들을 해결할 수 있다. Graphql에선 URL은 존재하지 않음. 한개의 Query로 만들 수 있다
 
-```ts
+```js
 query {
     feed {
         comments
