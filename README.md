@@ -40,4 +40,4 @@ query {
 
 - **schema:** 받거나 건내줄 정보에 대한 서술
 
-- **Query:** Query는 JSON data같은 data이다. 이 data를 보내는 일을 하는 것이 POST라고 한다.
+- **Query:** Query는 JSON data같은 data이다. 이 data를 보내는 일을 하는 것이 `POST`라고 한다.
