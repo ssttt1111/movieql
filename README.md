@@ -41,3 +41,17 @@ query {
 - **schema:** 받거나 건내줄 정보에 대한 서술
 
 - **Query:** Query는 JSON data같은 data이다. 이 data를 보내는 일을 하는 것이 `POST`라고 한다.
+
+- **Mutation:** Database 상태가 변화될 때 사용된다. `Change of State`
+
+```sh
+    type Query {
+        ...
+    }
+
+    type Mutation {
+        ...
+    }
+```
+
+> Graphql에게 Query나 Mutation을 요청하길 원한다면, 그것들을 `type Query, type Mutation` 안에 넣어야 한다.
