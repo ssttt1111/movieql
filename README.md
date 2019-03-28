@@ -39,3 +39,5 @@ query {
 자신이 요청한 정보들만 받을 수 있고, 원하는 방식으로 조정 가능
 
 - **schema:** 받거나 건내줄 정보에 대한 서술
+
+- **Query:** Query는 JSON data같은 data이다. 이 data를 보내는 일을 하는 것이 POST라고 한다.
